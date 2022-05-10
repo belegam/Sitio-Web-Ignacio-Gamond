@@ -286,14 +286,3 @@ iframe {
     grid-template-areas:
         "ele1 ele2";
 }
-
-
-.grid_hijo {
-    grid-area: ele1;
-    text-align: center;
-}
-
-.grid_hijo1 {
-    grid-area: ele2;
-    text-align: center;
-}
