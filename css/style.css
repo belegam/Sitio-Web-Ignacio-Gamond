@@ -1,0 +1,299 @@
+.fondo {
+    background-image: url(../imagenes/AOBACK.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    padding-left: 340px;
+}
+
+body h1 {
+    text-align: center;
+    font-size: 100px;
+    margin: 0px;
+    color: goldenrod;
+    padding-right: 30px;
+
+}
+
+section article {
+    color: black;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Akshar';
+}
+
+footer h6 {
+    color: black;
+    text-align: center;
+}
+
+iframe {
+    padding-left: 1000px;
+}
+
+.purple {
+
+    color: purple;
+    background-color: bisque;
+}
+
+.rounded {
+    border-radius: 30px;
+}
+
+.border {
+    border: 2px solid grey;
+}
+
+.texto {
+    padding-left: 15px;
+    line-height: 1.5;
+    color: goldenrod;
+    font-size: 29px;
+    background-image: url(https://media.tycsports.com/files/2021/03/11/185815/argentum-online_w862.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+
+    height: 500px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    font-family: 'Akshar';
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.2);
+    position: fixed;
+}
+
+.tarjeta_lista {
+    list-style-type: disc;
+    font-style: italic;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    ;
+}
+
+@font-face {
+    font-family: 'Akshar';
+    src: url(../fonts/Akshar-VariableFont_wght.ttf);
+}
+
+.tarjeta {
+    border-radius: 60px;
+    background-color: cornsilk;
+    color: black;
+    width: 400px;
+    height: 500px;
+    padding: 50px;
+    margin-left: 250px;
+}
+
+.tarjetaredes {
+    border: 5px solid;
+    border-style: double;
+    object-fit: cover;
+    border-radius: 10px;
+    width: 250px;
+}
+
+.musica {
+    margin-left: 1500px;
+    margin-top: 75px;
+}
+
+@font-face {
+    font-family: 'BeauRivage';
+    src: url(../fonts/BeauRivage-Regular.ttf);
+}
+
+.iframe {
+    padding-right: 100px;
+}
+
+.pie {
+    font-size: 50px;
+    font-family: 'BeauRivage';
+}
+
+.fuente1 {
+    font-family: 'Akshar';
+    src: url(../fonts/Akshar-VariableFont_wght.ttf);
+}
+
+.fuente2 {
+    font-family: 'MySoul';
+    src: url(../fonts/MySoul-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'MySoul';
+    src: url(../fonts/MySoul-Regular.ttf);
+}
+
+.fuente3 {
+    font-family: 'CodePro';
+    src: url(../fonts/SourceCodePro-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'CoderPro';
+    src: url(../fonts/SourceCodePro-VariableFont_wght.ttf);
+}
+
+.fuente4 {
+    font-family: 'AbrilFat';
+    src: url(../fonts/AbrilFatface-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'AbrilFat';
+    src: url(../fonts/AbrilFatface-Regular.ttf);
+}
+
+
+.Titulo1 {
+    font-family: 'AbrilFat';
+    src: url(../fonts/AbrilFatface-Regular.ttf);
+    font-size: 100px;
+    padding-left: 650px;
+    color: black;
+}
+
+.crearcuenta1 {
+    margin: 10px;
+    padding: 10px;
+    padding-left: 100px;
+    font-size: 50px;
+}
+
+.send {
+    font-size: 20px;
+    margin-left: 400px;
+}
+
+.logo {
+    width: 1180px;
+    height: 400px;
+}
+
+.social {
+    padding-top: 300px;
+}
+
+.Titulo2 {
+    font-family: 'AbrilFat';
+    src: url(../fonts/AbrilFatface-Regular.ttf);
+    font-size: 100px;
+    margin-left: 300px;
+    color: black;
+}
+
+.ingresarform {
+    margin: 100px;
+    font-size: 70px;
+}
+
+.social2 {
+    padding-top: 400px;
+}
+
+.tarjeta_descargas {
+    border-radius: 60px;
+    background-color: cornsilk;
+    color: black;
+    width: 400px;
+    height: 500px;
+    padding: 50px;
+    margin-left: 700px;
+}
+
+.social3 {
+    padding-top: 200px;
+}
+
+.tarjetaredes2 {
+    border: 5px solid;
+    border-style: double;
+    object-fit: cover;
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 450px;
+}
+
+.tarjetaredes3 {
+    border: 5px solid;
+    border-style: double;
+    object-fit: cover;
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 150px;
+}
+
+.consulta {
+    margin-top: 100px;
+    margin-left: 570px;
+}
+
+.ayuda {
+    margin-left: 720px;
+    margin-top: 20px;
+    font-style: italic;
+
+}
+
+.Titulo3 {
+    font-family: 'AbrilFat';
+    src: url(../fonts/AbrilFatface-Regular.ttf);
+    font-size: 100px;
+    margin-left: 600px;
+    color: black;
+}
+
+.grid {
+    padding: 1rem;
+    min-height: 500px;
+    display: grid;
+    grid-template-columns: 75px 75px;
+    grid-template-columns: 800px 800px;
+    grid-template-areas:
+        "ele1 ele2"
+        "ele1 ele2";
+}
+
+.grid2 {
+    padding: 1rem;
+    min-height: 500px;
+    display: grid;
+    grid-template-columns: 1000px 1000px;
+    grid-template-areas:
+        "ele1 ele2"
+}
+
+.grid3 {
+    padding: 50px;
+    min-height: 200px;
+    display: grid;
+    grid-template-columns: 50px 50px;
+    grid-template-rows: 70px 70px;
+    grid-template-areas:
+        "ele1 ele2";
+}
+
+
+.grid_hijo {
+    grid-area: ele1;
+    text-align: center;
+}
+
+.grid_hijo1 {
+    grid-area: ele2;
+    text-align: center;
+}
